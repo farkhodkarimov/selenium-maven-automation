@@ -73,7 +73,7 @@ public class DiceJobSearch {
 		}
 		
 		driver.close();
-		System.out.println("TEST COMPLETED " + LocalDateTime.now());
+		System.out.println("TEST COMPLETED : " + LocalDateTime.now());
 		
 
 	}
